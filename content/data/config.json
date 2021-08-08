@@ -33,7 +33,7 @@
             {
                 "label": "Contact",
                 "url": "/contact/",
-                "style": "button"
+                "style": "icon"
             }
         ]
     },
